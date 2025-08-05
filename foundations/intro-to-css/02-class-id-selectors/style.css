@@ -3,3 +3,7 @@ p {
   background-color: rgb(243, 175, 175);
   font-family: 'Verdana', 'DejaVu Sans', 'sans-serif'; 
 }
+#title {
+  color: rgb(4, 0, 255);
+  font-size: 36px;
+}
