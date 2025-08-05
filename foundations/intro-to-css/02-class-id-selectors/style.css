@@ -2,18 +2,17 @@
   background-color: rgb(243, 175, 175);
   font-family: 'Verdana', 'DejaVu Sans', 'sans-serif'; 
 }
+
 .adjust-font-size {
     font-size: 24px;
 }
+
 #two {
   color: rgb(4, 0, 255);
   font-size: 36px;
 }
-#ding {
-    font-size: 24px;
-}
+
 #four {
     background-color: rgb(165, 255, 165);
-    font-size: 24px;
     font-weight: bold;
 }
